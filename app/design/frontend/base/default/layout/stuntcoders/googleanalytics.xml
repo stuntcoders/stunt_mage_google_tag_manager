@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <block type="stuntcoders_googleanalytics/googleanalytics_ga" name="stuntcoders.googleanalytics.ga" template="stuntcoders/googleanalytics/ga.phtml"/>
+        </reference>
+        <reference name="after_body_start">
+            <block type="stuntcoders_googleanalytics/googleanalytics_gtm" name="stuntcoders.googleanalytics.gtm" template="stuntcoders/googleanalytics/gtm.phtml"/>
+        </reference>
+    </default>
+</layout>
