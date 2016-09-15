@@ -1,0 +1,7 @@
+app/code/local/Stuntcoders/Googleanalytics                                 app/code/local/Stuntcoders/Googleanalytics
+
+app/design/frontend/base/default/template/stuntcoders/googleanalytics      app/design/frontend/base/default/template/stuntcoders/googleanalytics
+
+app/design/frontend/base/default/layout/stuntcoders/googleanalytics.xml    app/design/frontend/base/default/layout/stuntcoders/googleanalytics.xml
+
+app/etc/modules/Stuntcoders_Googleanalytics.xml                            app/etc/modules/Stuntcoders_Googleanalytics.xml
